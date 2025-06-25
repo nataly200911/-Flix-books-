@@ -1,5 +1,10 @@
 body{
-background-color: darkgoldenrod;
-color: black;
 
+    background-color: darkgoldenrod;
+color: black;
+}
+
+h1{
+
+font-size: 20px;
 }
